@@ -1,0 +1,57 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: lightgray;
+}
+.header{
+  padding: 10px;
+  border-bottom: 1px solid black;
+  color:white;
+  background: DarkGray;
+  /*position: fixed;*/
+}
+h1{
+  display: inline-block;
+}
+h3{
+  margin-top: 10px;
+}
+h4{
+  margin-top: 5px;
+}
+p{
+  margin-left: 5px;
+}
+textarea{
+  resize: none;
+  display: block;
+  margin-bottom: 5px;
+}
+form{
+  width: 90%;
+}
+#logout{
+  display: inline-block;
+  float: right;
+}
+.container{
+  margin: auto;
+  width:600px;
+  padding: 5px;
+  background: white;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+}
+.pmsg{
+  border-top: 1px solid black;
+  margin-top: 5px;
+}
+.comments{
+  margin-left:5%;
+  border-top: 1px solid lightgray;
+}
+.archive{
+  margin-left: 5px;
+}
